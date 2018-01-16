@@ -55,5 +55,6 @@ public class LinkedList {
 
 These notes were taken from 
 
-![DATA STRUCTURES: LINKED LISTS](http://img.youtube.com/vi/njTh_OwMljA/0.jpg)]
+![DATA STRUCTURES: LINKED LISTS](http://img.youtube.com/vi/njTh_OwMljA/0.jpg)
+
 (https://youtu.be/njTh_OwMljA)
