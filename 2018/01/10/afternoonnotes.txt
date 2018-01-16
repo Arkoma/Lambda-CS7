@@ -1,0 +1,11 @@
+Rules for where .this is used
+
+1. refers to the Window object
+2. look to the left of the dot
+3. .bind, .call, .apply
+4. constructors, new, class
+
+
+.call calls the function
+.apply passes an array into the function. spread operator cb(...args);
+.bind binds a function to an object
