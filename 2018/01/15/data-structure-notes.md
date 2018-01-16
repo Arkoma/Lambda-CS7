@@ -53,5 +53,7 @@ public class LinkedList {
 ```
 * In the `deleteWithValue` function above, the data is never explicitly _destroyed_, but no one can access it because the _next_ pointers have been moved and therefore, it's essentially gone.
 
-These notes were taken from [![DATA STRUCTURES: LINKED LISTS](http://img.youtube.com/vi/njTh_OwMljA/0.jpg)]
+These notes were taken from 
+
+![DATA STRUCTURES: LINKED LISTS](http://img.youtube.com/vi/njTh_OwMljA/0.jpg)]
 (https://youtu.be/njTh_OwMljA)
