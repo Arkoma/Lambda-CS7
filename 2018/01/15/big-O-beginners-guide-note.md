@@ -16,5 +16,5 @@
 ## O(logN)
 * Binary search is an example of an algorithm that has O(logN) time. The algorithm's growth is minimal even as the data set becomes quite large.
 
-_These notes are based on ROB BELL's [**A beginner's guide to the Big O notation**][https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/]
+_These notes are based on ROB BELL's **A beginner's guide to the Big O notation** <https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/>_
 
