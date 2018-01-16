@@ -12,6 +12,7 @@
 ***
 ## O(2<sup>n</sup>)
 * The algorithm's growth doubles with each addition to the input data set.
+* This happens with recursion as in the Fibonacci number calculation
 ***
 ## O(logN)
 * Binary search is an example of an algorithm that has O(logN) time. The algorithm's growth is minimal even as the data set becomes quite large.
